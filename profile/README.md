@@ -2,7 +2,7 @@
 
 ### 🚀 Innovating the Web with Passion & Precision
 
-**Amar Ventures** is a forward-thinking web development company founded by **Amarjith T.K.**. We specialize in crafting high-performance, user-friendly, and scalable digital experiences.
+**Atherpulse technologies** is a forward-thinking web development company founded by **Amarjith T.K.**. We specialize in crafting high-performance, user-friendly, and scalable digital experiences.
 
 ## 🌟 About Us
 At Atherpulse technologies, we believe in pushing the boundaries of web technology. Our team is dedicated to delivering robust, secure, and efficient web applications that cater to businesses of all sizes.
